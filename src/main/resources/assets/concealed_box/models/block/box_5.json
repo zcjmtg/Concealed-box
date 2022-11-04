@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "concealed_box:blocks/box5",
+    "up": "concealed_box:blocks/box5",
+    "north": "concealed_box:blocks/box5",
+    "east": "concealed_box:blocks/box5",
+    "south": "concealed_box:blocks/box5",
+    "west": "concealed_box:blocks/box5",
+    "particle": "concealed_box:blocks/box5"
+  }
+}

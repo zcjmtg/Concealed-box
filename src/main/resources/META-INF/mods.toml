@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="concealed_box"
+version="1.0.0"
+displayName="Concealed box"
+credits="本模组由mtg制作。"
+displayURL="https://www.kuaishou.com/profile/3xcs4chgu3fj6fs"
+logoFile="logo.png"
+authors="mtg"
+description='''
+添加了一些箱子。
+'''
+
+[[dependencies.concealed_box]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

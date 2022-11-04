@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Concealed box",
+    "icon": {
+      "value": "CUSTOM:Box5"
+    },
+    "showSearch": true
+  }
+}
